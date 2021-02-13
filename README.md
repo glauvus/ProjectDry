@@ -1,6 +1,8 @@
 # ProjectDry
 Popular greek card game developed using PHP and a kinda RESTful API
 
+Preview using two browsers:
+![alt text](https://i.imgur.com/PjdwUZ6.gif)
 
 Table of Contents
 =================
