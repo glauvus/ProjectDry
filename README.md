@@ -1,6 +1,10 @@
 # ProjectDry
 Popular greek card game developed using PHP and a kinda RESTful API
 
+# Demo Page
+Please, visit the webpage: 
+https://users.iee.ihu.gr/~it175103/ProjectDry/
+
 Preview using two browsers:
 ![alt text](https://i.imgur.com/PjdwUZ6.gif)
 
@@ -28,13 +32,6 @@ Table of Contents
          * [Board](#board-1)
          * [Players](#players)
          * [Game_status](#game_status)
-
-
-# Demo Page
-
-Please, visit the webpage: 
-https://users.iee.ihu.gr/~it175103/ADISE19_ProjectDry/
-
 
 
 # Install
